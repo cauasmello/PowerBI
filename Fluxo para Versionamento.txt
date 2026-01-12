@@ -11,4 +11,22 @@ Ver o Histórico do Projeto:
 Commitar:
 - "git push -u origin master"
 -------------------------------------------------------------------------------------
+Branch:
+- Muito importante para conseguir ter acesso a versões antigas.
+------------------------------------------------------------------------------------
+Criar uma branch a partir de alguma versão "antiga:"
+-"git checkout -b hotfix/voltar-versao-antiga <hash do commit>"
+------------------------------------------------------------------------------------
+Restaurar um arquivo específico para uma versão antiga:
+-"git checkout -b hotfix/voltar-versao-antiga <hash do commit>"
+------------------------------------------------------------------------------------
+Desfazer um Commit:
+-"git revert <hash do commit>"
+------------------------------------------------------------------------------------
+Mudar de Branch:
+- "git switch nome-da-branch"
+
+Criar uma nova Branch e já ir pra ela:
+- "git switch -c minha-nova-branch"
+
 OBS: O GitHub pode ser usado facilmente junto com o PowerBI para controle de versões.
