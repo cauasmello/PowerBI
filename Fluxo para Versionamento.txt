@@ -1,0 +1,5 @@
+Fluxo correto para o dia a dia:
+- Salvar as alterações;
+- "git status"; 
+- "git add .";
+- "git commit -m "Descrição das alterações" "
