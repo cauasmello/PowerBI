@@ -3,3 +3,12 @@ Fluxo correto para o dia a dia:
 - "git status"; 
 - "git add .";
 - "git commit -m "Descrição das alterações" "
+
+-------------------------------------------------------------------------------------
+Ver o Histórico do Projeto:
+- "git log --oneline --decorate --graph --all"
+-------------------------------------------------------------------------------------
+Commitar:
+- "git push -u origin master"
+-------------------------------------------------------------------------------------
+OBS: O GitHub pode ser usado facilmente junto com o PowerBI para controle de versões.
